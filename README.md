@@ -6,7 +6,7 @@ This solution's backend is written in Python. There are also [**JavaScript**](ht
 [![Open in Dev Containers](https://img.shields.io/static/v1?style=for-the-badge&label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/azure-samples/azure-search-openai-demo)
 
 ## Table of Contents
-
+## teste
 - [Features](#features)
 - [Azure account requirements](#azure-account-requirements)
   - [Cost estimation](#cost-estimation)
